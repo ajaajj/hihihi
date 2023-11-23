@@ -10,5 +10,6 @@ const a = "1111";
 .tom {
   width: 100px;
   height: 200px;
+  display: block;
 }
 </style>
