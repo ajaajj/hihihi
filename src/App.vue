@@ -8,8 +8,9 @@ const a = "1111";
 
 <style scoped>
 .tom {
-  width: 100px;
-  height: 200px;
+  width: 300px;
+  height: 300px;
   display: block;
+
 }
 </style>
